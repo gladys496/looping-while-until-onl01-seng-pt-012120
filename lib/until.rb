@@ -1,2 +1,2 @@
-def using_while(phrase)
-  while phrase < 10   
+def using_until
+  
